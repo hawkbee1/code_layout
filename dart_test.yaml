@@ -1,0 +1,3 @@
+tags:
+  # Keeps a file out of Very Good CLI's test merging (which drops tags).
+  skip_very_good_optimization:

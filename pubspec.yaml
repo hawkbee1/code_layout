@@ -9,8 +9,7 @@ environment:
 
 dependencies:
   args: ^2.5.0
-  code_graph:
-    path: ../code_graph
+  code_graph: ^0.1.0
   meta: ^1.16.0
 
 dev_dependencies:
